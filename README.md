@@ -1,1 +1,2 @@
-# technical-writing-portfolio
+# technical-writing-portfolio 
+Complete Technical Writing Portfolio consists of API Guides, System Configuration Guides, Blog Posts, Press Releases, Technical Articles, Landing Pages, Newsletters, Product Descriptions, Instruction Manuals, Release Notes, Journalistic Ledes, Workflow Diagrams, Network Diagrams, Quick Start Up Guide, Owner's Manuals, Troubleshooting Diagram, Technical Specifications, Material Safety Data Sheet, FAQs, Brand Style Guides, Step-By-Step Guides, Waterfall Project Management Diagrams, Scrum Guides, Reference Charts, Quick Reference Guides, Technical Guides, Data Management Guides
